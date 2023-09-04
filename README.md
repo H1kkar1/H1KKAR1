@@ -38,9 +38,18 @@
 </td><td valign="top" width="33%">
 
 
+## [CodeWars](https://www.codewars.com/users/HIKKARI%20HOMORA)
+
+</td><td valign="top" width="33%">
+
+ 
+<div>
+
+![Изображение](https://github.com/H1kkar1/H1KKAR1/tree/main/Images)
+
+</div>
 
 </td></tr></table>
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
