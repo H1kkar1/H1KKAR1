@@ -35,21 +35,20 @@
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td></tr></table>  
+<br/>
 
-<br />
-## [CodeWars](https://www.codewars.com/users/HIKKARI%20HOMORA)
 
-</td><td valign="top" width="33%">
 
+## CodeWars
  
 <div>
-
-![Изображение](https://github.com/H1kkar1/H1KKAR1/tree/main/Images/cw.png)
-
+<a href="https://www.codewars.com/users/HIKKARI%20HOMORA">
+  <img src="https://github.com/H1kkar1/H1KKAR1/blob/main/Images/cw.png"/>
+</a>
 </div>
 
-</td></tr></table>
-<br />
+
+<br/>
 
 ----
