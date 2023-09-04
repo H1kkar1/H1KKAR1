@@ -37,7 +37,7 @@
 
 </td><td valign="top" width="33%">
 
-
+<br />
 ## [CodeWars](https://www.codewars.com/users/HIKKARI%20HOMORA)
 
 </td><td valign="top" width="33%">
@@ -45,7 +45,7 @@
  
 <div>
 
-![Изображение](https://github.com/H1kkar1/H1KKAR1/tree/main/Images)
+![Изображение](https://github.com/H1kkar1/H1KKAR1/tree/main/Images/cw.png)
 
 </div>
 
