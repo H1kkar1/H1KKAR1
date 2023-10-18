@@ -1,4 +1,4 @@
-# **<div align="center">Добро пожаловать в мой профиль!</div>**  
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg) 
   
 
 <br/>  
@@ -35,7 +35,7 @@
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
 </div>
 
-</td></tr></table>  
+</td></tr></table> 
 <br/>
 
 
