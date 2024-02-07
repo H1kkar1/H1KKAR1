@@ -41,18 +41,3 @@
 </div>
 </td></tr></table> 
 <br/>
-
-
-
-## CodeWars
- 
-<div>
-<a href="https://www.codewars.com/users/HIKKARI%20HOMORA">
-  <img src="https://github.com/H1kkar1/H1KKAR1/blob/main/Images/cw.png"/>
-</a>
-</div>
-
-
-<br/>
-
-----
